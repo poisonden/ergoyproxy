@@ -1,0 +1,23 @@
+{
+	"nodes":[
+		{"id":"64c041e590696ffa","type":"text","text":"User","x":-442,"y":171,"width":257,"height":50},
+		{"id":"4c2910f52b0d5ef4","type":"text","text":"ID\nName\nE-mail = New service mail incorporated with very scripted\nPassword\n2nd Security \nAccount bank = with some way of security ","x":-600,"y":339,"width":250,"height":241},
+		{"id":"155b8e25ee5cb2bb","type":"text","text":"Notifications","x":-931,"y":23,"width":250,"height":60},
+		{"id":"874714cee285b381","type":"text","text":"NeoBank ","x":-435,"y":-100,"width":250,"height":50},
+		{"id":"69432669f24bfb7b","type":"text","text":"Some way of crypto for using our app will help you to discount some services.","x":240,"y":-7,"width":250,"height":127},
+		{"id":"d972f2cd33b45d02","type":"text","text":"All Services in your account : Water, Gas, Electrity, Internet etc....","x":-40,"y":339,"width":250,"height":161},
+		{"id":"1e58936c51ab1a2c","type":"text","text":"AI","x":720,"y":196,"width":250,"height":60},
+		{"id":"86672b5d1a95f588","x":365,"y":440,"width":250,"height":60,"type":"text","text":"HOW CAN I USE AI IN NEO BANK"},
+		{"id":"5442b00cbd0cc6aa","x":1120,"y":530,"width":250,"height":50,"type":"text","text":"AI IN TENSOR FLOW \n"}
+	],
+	"edges":[
+		{"id":"c9ace4b0e813b25e","fromNode":"874714cee285b381","fromSide":"bottom","toNode":"64c041e590696ffa","toSide":"top"},
+		{"id":"2048fada96c3bccc","fromNode":"64c041e590696ffa","fromSide":"bottom","toNode":"4c2910f52b0d5ef4","toSide":"top"},
+		{"id":"5826e40b57d1cd91","fromNode":"64c041e590696ffa","fromSide":"right","toNode":"d972f2cd33b45d02","toSide":"left"},
+		{"id":"0b84560e67925a72","fromNode":"64c041e590696ffa","fromSide":"left","toNode":"155b8e25ee5cb2bb","toSide":"right"},
+		{"id":"1d402c420d2f3200","fromNode":"874714cee285b381","fromSide":"right","toNode":"69432669f24bfb7b","toSide":"left"},
+		{"id":"3eca9bc5bd918993","fromNode":"1e58936c51ab1a2c","fromSide":"bottom","toNode":"86672b5d1a95f588","toSide":"top"},
+		{"id":"47d329fce5d062e8","fromNode":"1e58936c51ab1a2c","fromSide":"top","toNode":"69432669f24bfb7b","toSide":"right"},
+		{"id":"178fecbf04361a3c","fromNode":"1e58936c51ab1a2c","fromSide":"right","toNode":"5442b00cbd0cc6aa","toSide":"left"}
+	]
+}

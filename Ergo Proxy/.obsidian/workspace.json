@@ -1,0 +1,262 @@
+{
+  "main": {
+    "id": "9d9483bdd6a47eca",
+    "type": "split",
+    "children": [
+      {
+        "id": "faf3a25dd0b87160",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d4d8de64405cc3a8",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "tryhackme-learning/pic/6c2f888c43adca666a5850516b67bad6.svg"
+              },
+              "icon": "lucide-image",
+              "title": "6c2f888c43adca666a5850516b67bad6"
+            }
+          },
+          {
+            "id": "0fd27cf1a85f5189",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "fashion.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "fashion"
+            }
+          },
+          {
+            "id": "f9fce66be7ee6056",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Neo Bank.canvas",
+                "viewState": {
+                  "x": -39.02592789868202,
+                  "y": 357.6798161630536,
+                  "zoom": -1.0671625427374776
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Neo Bank"
+            }
+          },
+          {
+            "id": "6aaeb200832a98d0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "workana.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "workana"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "963d92191ebfacde",
+    "type": "split",
+    "children": [
+      {
+        "id": "4b18a5a0045f953c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c4eaeca8c518205b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "e7beeb46ad14180b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "376fd77d1adc9754",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 305.5,
+    "collapsed": true
+  },
+  "right": {
+    "id": "89df47431ce1bb84",
+    "type": "split",
+    "children": [
+      {
+        "id": "8928cd4ebced5837",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0b40bdddd2d0d934",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "trans.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for trans"
+            }
+          },
+          {
+            "id": "7ccaabc9285b891c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "trans.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from trans"
+            }
+          },
+          {
+            "id": "3ad0562807b85d58",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "1e4289e7038d7411",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "trans.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of trans"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "f9fce66be7ee6056",
+  "lastOpenFiles": [
+    "Neo bank.md",
+    "Neo Bank.canvas",
+    "Untitled.canvas",
+    "fashion.md",
+    "overthewire.md",
+    "README.md",
+    "to-do.md",
+    "arch.md",
+    "tryhackme-learning/Burp Suite  The Basics.md",
+    "links.md",
+    "obsidian-help.md",
+    "trans.md",
+    "workana.md",
+    "unnistal distro wsl.md",
+    "ללא כותרת 1.md",
+    "ללא כותרת 2.md",
+    "tryhackme-practice/Basic Pentesting.md",
+    "CTF-walkthroughs/vaccine-HTB.md",
+    "CTF-walkthroughs/walkthrough-pics/vaccine-HTB-1.png",
+    "Learn Ethical Hacking (CEH Journey)/Nmap Tutorial to find Network Vulnerabilities.md",
+    "Learn Ethical Hacking (CEH Journey)/Social Engineering.md",
+    "Learn Ethical Hacking (CEH Journey)/Google search operators the complete list.md",
+    "cybersecurity/adversaries/APT-40.md",
+    "CLI-tools/dig.md",
+    "CLI-tools/nbtscan.md",
+    "CLI-tools/ssh-command.md",
+    "CLI-tools/netstat.md",
+    "CLI-tools/ping.md",
+    "tryhackme-learning/pic/1b42f69b00cfb7f24f1e99337c271078.svg",
+    "Game Development Study",
+    "Web Development Study/Javacript",
+    "Web Development Study",
+    "CS50'S",
+    "Study Languages/Python/11 - Additional Topic",
+    "Study Languages/Python/10 - Python Date and Time",
+    "Study Languages/Python/9 - Python Advanced Topics",
+    "Study Languages/Python/8 - Python Object & Class",
+    "Study Languages/Python/7 - Python Exception Handling",
+    "Study Languages/Python/6 - Python Files",
+    "Untitled 1.canvas",
+    "networking/networking-pics/DNS-1.png",
+    "coding/coding-pics/DBMS-2.png",
+    "coding/coding-pics/DBMS-1.png",
+    "tryhackme-learning/pic/Pasted image 20231105135614.png",
+    "tryhackme-learning/pic/Pasted image 20231105135546.png",
+    "tryhackme-learning/pic/Pasted image 20231105135336.png",
+    "tryhackme-learning/pic/Pasted image 20231104141702.png",
+    "tryhackme-learning/pic/Pasted image 20231031183350.png"
+  ]
+}
